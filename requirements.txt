@@ -2,3 +2,4 @@ streamlit
 PyMuPDF
 tiktoken
 langchain
+PyPDF2
