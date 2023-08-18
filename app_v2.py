@@ -192,7 +192,6 @@ def translator():
         estimated_cost_total_initial = 0
         i = 0
         for chunk in st.session_state.chunks:
-            time.sleep(5)
             i =+ 1
             st.write(f"Translating Chunk {i}...")
             translation, prompt_token, completion_token = gpt_translator(
