@@ -3,3 +3,5 @@ PyMuPDF
 tiktoken
 langchain
 PyPDF2
+openai
+plotly
